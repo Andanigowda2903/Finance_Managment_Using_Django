@@ -1,4 +1,4 @@
-# FinanceTracker
+# Finance_Management
 
 # Setup Virtual Environment
 * Create a project directory
